@@ -125,3 +125,14 @@ spring.ai.chat.controller.enabled=false
 
 # Porta do servidor
 server.port=8085
+```
+
+### 📄. Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
+
+### 📄. Contato
+
+    -  Desenvolvedor: Leandro Nazareth
+    -  Email: leandrosnazareth@gmail.com
+    -  LinkedIn: https://www.linkedin.com/in/leandrosnazareth
